@@ -1,4 +1,15 @@
-Category list - try to keep it down to 10. Some may need to be converted to topics/master posts.
+Intersectional Minecraft forum, structured for transparency, safe spaces, educational resources.
+
+
+**Hierarchy:**
+Board
+Category
+Forum
+Topic
+
+
+**Category list**
+_try to keep it down to 10. Some may need to be converted to topics/master posts_
 
 Minecraft Resources
 Why X is Problematic
@@ -8,3 +19,22 @@ Disability and Ableism
 Understanding Intersectionality
 Intersectional Minecraft (server)
 The Lounge
+
+
+**Permissions**
+_User permissions, groups, mod permissions, etc._
+
+Board mods - full permissions
+Category mods - full mod permissions
+Forum mods - mod permissions for specific forum (for safe spaces, frequently used forums) different ppl will mod different areas
+Power users - no special perms, just title or other way to say "this person is helpful and know what they're doing"
+Users - no special perms
+New users - Read only, except rules thread. Cannot post elsewhere until reviewed/approved.
+
+
+**Plugins**
+spoiler/cw plugins - possibly auto-hide/censor words, with the option to customize triggers per user
+
+
+**Master Posts**
+locked resource threads, read only, to be updated as needed.
